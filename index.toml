@@ -1,6 +1,91 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "639d1e087044f56c3d414841a577d00030e6f5c057540d9a33f4c1cde98e0437"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "a9337bd8ac7a93a3e5f622ac5e288baa049ed685d908e6771bd00dddebf0d278"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "e96c8419bbcfb7950cd2f14187b632d3f162a7e873a48015f49b43716af119b9"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "79625467f94812a83eb6fbf4e1d3884418937cc5b07fc708d05b7ab11dac16a5"
+metafile = true
+
+[[files]]
+file = "mods/followers-teleport-too.pw.toml"
+hash = "15d14b715d89435099cdaf28f74f7458ffd82e34e37c1e6cd0a9cdb2baa3debe"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "9a8c273d0efcf679d04d77ab37521c05978caff642a6c2b867d2fa2cdc8b168e"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "5f40e2db6037f733566c81e8f11ca3c425d738eb5a182658691f36d041b5df40"
+metafile = true
+
+[[files]]
+file = "mods/inventory-management.pw.toml"
+hash = "b50651c2c054ff67985150b5a80198fda6606545f7d68e92548d1a7fea4c0914"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "4ed061d122cb39f34ed730984c7bcf03437250f24a21975203bb4598d7d86a14"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "8943d352c205e18399c893fb7135dc756f53ecc08fb3fb4b4bac048a788f47d0"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "22d23e00644963c4f299d87453c287f6b22749b4bec44dcd58d7d0e0144d4fd6"
+metafile = true
+
+[[files]]
+file = "mods/no-hostiles-around-campfire.pw.toml"
+hash = "c6adb9f33e7a8c8d698839b7c480c1f8ec1e1597a995cfa58e7a33aa293828ef"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "17ee671cddcc590d308b34dff6eaf75a4cd066556dc611f3322e974d98bd3e9f"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "e8c961dbadf2dde334c857d0b42a6c6452aa77a146cf80d4febf7f46e4ac2ef6"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "343644dce1420ab6a3e0d2780c65e8c4abfe0a76ba63229e72495333a77ebb45"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "7b976155d02000a064de326c3918686bc8be05125a16570659c5f5c9feab768b"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "a4e360ff3653483b148b0dc6087e4840b01792e94565d28607c15e06f1815ddb"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "cfa4ddfc8999e7be331c6dad1f2a0372f996243241d21697939e6838b3402c6d"
 metafile = true

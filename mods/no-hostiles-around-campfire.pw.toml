@@ -1,0 +1,13 @@
+name = "No Hostiles Around Campfire"
+filename = "nohostilesaroundcampfire-1.21.10-7.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/EJqeyaVz/versions/FIXlKnKL/nohostilesaroundcampfire-1.21.10-7.2.jar"
+hash-format = "sha512"
+hash = "464b7f964038e31056e90a68b21cf082512d028ae7f79488b40285c66395b1af6b3a7ce7d75159733ac172c8cf430b9c558ce83ed6ad0e04a7913467fceb4b85"
+
+[update]
+[update.modrinth]
+mod-id = "EJqeyaVz"
+version = "FIXlKnKL"
