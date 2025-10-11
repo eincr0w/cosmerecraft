@@ -21,6 +21,11 @@ hash = "79625467f94812a83eb6fbf4e1d3884418937cc5b07fc708d05b7ab11dac16a5"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
+metafile = true
+
+[[files]]
 file = "mods/followers-teleport-too.pw.toml"
 hash = "15d14b715d89435099cdaf28f74f7458ffd82e34e37c1e6cd0a9cdb2baa3debe"
 metafile = true
@@ -56,6 +61,16 @@ hash = "22d23e00644963c4f299d87453c287f6b22749b4bec44dcd58d7d0e0144d4fd6"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "03aeb028187b13a940b7140789a7701febaacfb8fbad9fcbd6344c197df31f7e"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "0535b2aae533bf85d7382866c456ed491db5da4784f249a370f796280014340d"
+metafile = true
+
+[[files]]
 file = "mods/no-hostiles-around-campfire.pw.toml"
 hash = "c6adb9f33e7a8c8d698839b7c480c1f8ec1e1597a995cfa58e7a33aa293828ef"
 metafile = true
@@ -81,6 +96,11 @@ hash = "7b976155d02000a064de326c3918686bc8be05125a16570659c5f5c9feab768b"
 metafile = true
 
 [[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "fb1838277d110e0b7cc82a9b03db6f9b08198ad8396bf789fa339454ba7c1682"
+metafile = true
+
+[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "a4e360ff3653483b148b0dc6087e4840b01792e94565d28607c15e06f1815ddb"
 metafile = true
@@ -88,4 +108,19 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "cfa4ddfc8999e7be331c6dad1f2a0372f996243241d21697939e6838b3402c6d"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "22052f42b1b73226d9508ef42af962471c79c7daa281aac66a82a90c7d7bb9e5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/borderless-glass.pw.toml"
+hash = "b913bffde7a6bbdad173ae643cc1f3103a3f4c114d10d0a2dfb44536135ca480"
+metafile = true
+
+[[files]]
+file = "resourcepacks/invisible-armor-model.pw.toml"
+hash = "613a1a5f7adf3168a6fbfbdd3beeaeb0b4dc1c4bf93c1ac717611c6a0f34e0d5"
 metafile = true

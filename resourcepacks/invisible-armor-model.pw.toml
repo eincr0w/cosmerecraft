@@ -1,0 +1,13 @@
+name = "Invisible Armor Model"
+filename = "Invisible Armor Model - 69.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yd1iJerO/versions/QBJARZTf/Invisible%20Armor%20Model%20-%2069.0.zip"
+hash-format = "sha512"
+hash = "4854cd22e6d4822f0516b4c884fa6772d6e0f449af83f6c6da80499eeb4412eb384621abaa6f4f7e8b083905cdff6ac650a28475ebb30eaac9bade764368fbe1"
+
+[update]
+[update.modrinth]
+mod-id = "yd1iJerO"
+version = "QBJARZTf"
