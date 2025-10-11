@@ -1,0 +1,7 @@
+# === packwiz metadata only ===
+mods/*.jar
+resourcepacks/*.zip
+shaderpacks/*.zip
+.packwiz-cache/
+.packwiz-installer/
+.packwiz-tmp/
