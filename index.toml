@@ -154,16 +154,6 @@ hash = "b913bffde7a6bbdad173ae643cc1f3103a3f4c114d10d0a2dfb44536135ca480"
 metafile = true
 
 [[files]]
-file = "resourcepacks/clayful-128x.pw.toml"
-hash = "14a54ab65fa4d4afcbb3ae3e90a3518f8e450bf44c8ce9da1906b84c8a37d963"
-metafile = true
-
-[[files]]
-file = "resourcepacks/connected-paths.pw.toml"
-hash = "e0d3cc0237f1ba8140188f9b6d682c24262a5f3ba7e2edcd697871823a5fcadc"
-metafile = true
-
-[[files]]
 file = "resourcepacks/default-hd-128x.pw.toml"
 hash = "e2504ff664397605b1bd1a6e10e6aa316dfb10b3ac5fe3db4408d4b952a10e13"
 metafile = true
@@ -174,23 +164,8 @@ hash = "dac980c6dd65318e11b0d309ace1a48f7783e459f62a5d6b28d0d9ab3a51531d"
 metafile = true
 
 [[files]]
-file = "resourcepacks/faithful-64x.pw.toml"
-hash = "585fa25553eba529d5d123830d1a8e430851c30a229b8d79f5f6ea966267018c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/health.pw.toml"
-hash = "4aa07928dc7310e76323484f3b96fa31df43468d99026840c85ce61c9c451e62"
-metafile = true
-
-[[files]]
 file = "resourcepacks/invisible-armor-model.pw.toml"
 hash = "613a1a5f7adf3168a6fbfbdd3beeaeb0b4dc1c4bf93c1ac717611c6a0f34e0d5"
-metafile = true
-
-[[files]]
-file = "resourcepacks/primes-hd-textures.pw.toml"
-hash = "4572b9c7d50ba45e783d0badb792bd5b0238204a41c5a722515173ad9ff70cb7"
 metafile = true
 
 [[files]]
