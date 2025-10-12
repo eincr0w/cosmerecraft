@@ -1,0 +1,13 @@
+name = "Clayful 128x"
+filename = "Clayful 128x Demo 1.5.2.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IE80M8ZB/versions/KZr4Hq31/Clayful%20128x%20Demo%201.5.2.1.zip"
+hash-format = "sha512"
+hash = "5e8d4c896852eb215e22b60428ab8a7ed0c85427c098b38c5cc2fcaf3cc3b5db7ddd30479cee9b1c9ac5a618f9d1411a01792d22f87e26f485c84b5f49f887e1"
+
+[update]
+[update.modrinth]
+mod-id = "IE80M8ZB"
+version = "KZr4Hq31"

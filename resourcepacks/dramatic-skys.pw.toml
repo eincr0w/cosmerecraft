@@ -1,0 +1,13 @@
+name = "Dramatic Skys"
+filename = "Dramatic Skys Demo 1.5.3.36.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2YyNMled/versions/oZC4fRwa/Dramatic%20Skys%20Demo%201.5.3.36.1.zip"
+hash-format = "sha512"
+hash = "35a0a2db172b270acc1aa118cefd65c00377ee11a111882c31eacacc3f1af80dddb757d993ebd9c1763b37d39fbe47964c1b7e122e759a57c9d1872ce4317340"
+
+[update]
+[update.modrinth]
+mod-id = "2YyNMled"
+version = "oZC4fRwa"

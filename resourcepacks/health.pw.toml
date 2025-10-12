@@ -1,0 +1,13 @@
+name = "Player Health Indicators"
+filename = "§f§lHealth Indicators §7v2.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/V4WIozaJ/versions/gnuusVNa/%C2%A7f%C2%A7lHealth%20Indicators%20%C2%A77v2.0.0.zip"
+hash-format = "sha512"
+hash = "94944a46be77504c2fb4cb473781bd3618ebb32fdb0f704cb7d9cf15cef8aa020ecc11dc8869555d2ecba372fcc46078085250f994b34da522a0d4b0fa548989"
+
+[update]
+[update.modrinth]
+mod-id = "V4WIozaJ"
+version = "gnuusVNa"

@@ -16,6 +16,16 @@ hash = "e96c8419bbcfb7950cd2f14187b632d3f162a7e873a48015f49b43716af119b9"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "d980c9bbc31a2fbac6070ed2c8992e2f1527839c54c4299d7a52f015775d8067"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "2a9e9968c598e234a84ccd9afc80a424d5c2ad9a37e4c85a0d36d06ddc9ebfa9"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "79625467f94812a83eb6fbf4e1d3884418937cc5b07fc708d05b7ab11dac16a5"
 metafile = true
@@ -63,11 +73,6 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "03aeb028187b13a940b7140789a7701febaacfb8fbad9fcbd6344c197df31f7e"
-metafile = true
-
-[[files]]
-file = "mods/litematica.pw.toml"
-hash = "fb7ac2b9ede78fcb812388882addc3e6de5e4176e570acc5332bae6088ec2d04"
 metafile = true
 
 [[files]]
@@ -139,11 +144,56 @@ file = "packwiz-installer.jar"
 hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
 
 [[files]]
+file = "resourcepacks/better-animations.pw.toml"
+hash = "1bccf23b74590dce7dc466a2a5ac587c60c97422da8a81134139fa577afa7c1d"
+metafile = true
+
+[[files]]
 file = "resourcepacks/borderless-glass.pw.toml"
 hash = "b913bffde7a6bbdad173ae643cc1f3103a3f4c114d10d0a2dfb44536135ca480"
 metafile = true
 
 [[files]]
+file = "resourcepacks/clayful-128x.pw.toml"
+hash = "14a54ab65fa4d4afcbb3ae3e90a3518f8e450bf44c8ce9da1906b84c8a37d963"
+metafile = true
+
+[[files]]
+file = "resourcepacks/connected-paths.pw.toml"
+hash = "e0d3cc0237f1ba8140188f9b6d682c24262a5f3ba7e2edcd697871823a5fcadc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-hd-128x.pw.toml"
+hash = "e2504ff664397605b1bd1a6e10e6aa316dfb10b3ac5fe3db4408d4b952a10e13"
+metafile = true
+
+[[files]]
+file = "resourcepacks/dramatic-skys.pw.toml"
+hash = "dac980c6dd65318e11b0d309ace1a48f7783e459f62a5d6b28d0d9ab3a51531d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-64x.pw.toml"
+hash = "585fa25553eba529d5d123830d1a8e430851c30a229b8d79f5f6ea966267018c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/health.pw.toml"
+hash = "4aa07928dc7310e76323484f3b96fa31df43468d99026840c85ce61c9c451e62"
+metafile = true
+
+[[files]]
 file = "resourcepacks/invisible-armor-model.pw.toml"
 hash = "613a1a5f7adf3168a6fbfbdd3beeaeb0b4dc1c4bf93c1ac717611c6a0f34e0d5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/primes-hd-textures.pw.toml"
+hash = "4572b9c7d50ba45e783d0badb792bd5b0238204a41c5a722515173ad9ff70cb7"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "0a3f01f56afd065dc65dffb073b4fc5f9ae031aaef08d95d9df92e0093ac8504"
 metafile = true
