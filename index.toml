@@ -11,6 +11,11 @@ hash = "a9337bd8ac7a93a3e5f622ac5e288baa049ed685d908e6771bd00dddebf0d278"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "b152c75412428e5f53667cb0836fa1323ca93cbd925e456239710a2e261d9963"
+metafile = true
+
+[[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "e96c8419bbcfb7950cd2f14187b632d3f162a7e873a48015f49b43716af119b9"
 metafile = true
@@ -169,6 +174,11 @@ hash = "5ba1322b61ca7551554f7bb37359a256b92556283f9f90656a085703fcbcebf2"
 metafile = true
 
 [[files]]
+file = "resourcepacks/ctm-of-fabric.pw.toml"
+hash = "ad3f19445bc7cdf8381f27efcb4c0512f0b5844a408576cf3e96e3809c577b6b"
+metafile = true
+
+[[files]]
 file = "resourcepacks/default-hd-128x.pw.toml"
 hash = "e2504ff664397605b1bd1a6e10e6aa316dfb10b3ac5fe3db4408d4b952a10e13"
 metafile = true
@@ -176,6 +186,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
 hash = "dac980c6dd65318e11b0d309ace1a48f7783e459f62a5d6b28d0d9ab3a51531d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/even-better-enchants.pw.toml"
+hash = "4f3e46f03f3af082015953f22c6600fd20e464222a20655b6aa1009d6ba65cc2"
 metafile = true
 
 [[files]]

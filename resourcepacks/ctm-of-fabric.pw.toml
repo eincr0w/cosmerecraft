@@ -1,0 +1,13 @@
+name = "CTM Optifine - Fabric"
+filename = "CTM OF-Fabric 0.8.1+1.21.10.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uJt1qseH/versions/HNJUwgfy/CTM%20OF-Fabric%200.8.1%2B1.21.10.zip"
+hash-format = "sha512"
+hash = "799097e1aa536242cd8f467632d8c4b44882f46ea948fd3ec680d142534a85313de7f99efae2db6bd7634ff5d813bb8d24dd3be10c61177ff068f8cf505585a0"
+
+[update]
+[update.modrinth]
+mod-id = "uJt1qseH"
+version = "HNJUwgfy"
