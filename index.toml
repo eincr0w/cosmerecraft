@@ -106,6 +106,11 @@ hash = "4762935a3ab92c3ad07f3eb43a7bb8f9997066c9f8e9c68745f286e395f7b51e"
 metafile = true
 
 [[files]]
+file = "mods/potions-description.pw.toml"
+hash = "697c1c2778d7ed7e9029e9477661f1a4c8e1b69e4cf07e13179f51137e5480ff"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "17ee671cddcc590d308b34dff6eaf75a4cd066556dc611f3322e974d98bd3e9f"
 metafile = true
@@ -159,11 +164,6 @@ hash = "1bccf23b74590dce7dc466a2a5ac587c60c97422da8a81134139fa577afa7c1d"
 metafile = true
 
 [[files]]
-file = "resourcepacks/borderless-glass.pw.toml"
-hash = "b913bffde7a6bbdad173ae643cc1f3103a3f4c114d10d0a2dfb44536135ca480"
-metafile = true
-
-[[files]]
 file = "resourcepacks/connected-paths.pw.toml"
 hash = "e0d3cc0237f1ba8140188f9b6d682c24262a5f3ba7e2edcd697871823a5fcadc"
 metafile = true
@@ -186,6 +186,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
 hash = "dac980c6dd65318e11b0d309ace1a48f7783e459f62a5d6b28d0d9ab3a51531d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchanted-clarity.pw.toml"
+hash = "cbe57261491b16869c66e1c99a8e907bb40925ce497ce147ce7708ffea9e9c0c"
 metafile = true
 
 [[files]]

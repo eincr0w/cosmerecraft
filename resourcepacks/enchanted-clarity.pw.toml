@@ -1,0 +1,13 @@
+name = "Enchanted Clarity"
+filename = "Enchanted Clarity.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Gf0rJhc3/versions/I8GFD3qm/Enchanted%20Clarity.zip"
+hash-format = "sha512"
+hash = "4ab5dbfa5b8c82876dc70f7cbaf19598492323c2e22bbb77175a71b344ae56b748340c0a7fcaf20d1f4f9dfe3705a9c815bdbb6f357125384a7265dff911ba98"
+
+[update]
+[update.modrinth]
+mod-id = "Gf0rJhc3"
+version = "I8GFD3qm"
