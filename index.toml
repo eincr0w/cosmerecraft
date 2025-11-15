@@ -154,6 +154,16 @@ hash = "b913bffde7a6bbdad173ae643cc1f3103a3f4c114d10d0a2dfb44536135ca480"
 metafile = true
 
 [[files]]
+file = "resourcepacks/connected-paths.pw.toml"
+hash = "e0d3cc0237f1ba8140188f9b6d682c24262a5f3ba7e2edcd697871823a5fcadc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cozyui-plus.pw.toml"
+hash = "5ba1322b61ca7551554f7bb37359a256b92556283f9f90656a085703fcbcebf2"
+metafile = true
+
+[[files]]
 file = "resourcepacks/default-hd-128x.pw.toml"
 hash = "e2504ff664397605b1bd1a6e10e6aa316dfb10b3ac5fe3db4408d4b952a10e13"
 metafile = true
@@ -166,6 +176,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/invisible-armor-model.pw.toml"
 hash = "613a1a5f7adf3168a6fbfbdd3beeaeb0b4dc1c4bf93c1ac717611c6a0f34e0d5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/trueform.pw.toml"
+hash = "cd3b2efe0b60d16c59cea87bc1a750241611d33b742d4413d3336289e91b7c14"
 metafile = true
 
 [[files]]

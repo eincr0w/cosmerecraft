@@ -1,0 +1,13 @@
+name = "TrueForm3D"
+filename = "TrueForm-0.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/s6PyQRDg/versions/IfZp4DLp/TrueForm-0.3.zip"
+hash-format = "sha512"
+hash = "4dd491acf0ade3732cc8de564209ae72d212f5bd3f47d91dc4591e9e9fe6173fc839a3bdc3dead7ebca455608cd09087b603f934b264707ac60c8914f70e1e0e"
+
+[update]
+[update.modrinth]
+mod-id = "s6PyQRDg"
+version = "IfZp4DLp"
