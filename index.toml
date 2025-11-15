@@ -21,6 +21,11 @@ hash = "e96c8419bbcfb7950cd2f14187b632d3f162a7e873a48015f49b43716af119b9"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-descriptions-java.pw.toml"
+hash = "d80c4d7bdd2b446ffbbe0bc832ae40c20e00e5bb3d9de18bdacf871b4edb6f55"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "d980c9bbc31a2fbac6070ed2c8992e2f1527839c54c4299d7a52f015775d8067"
 metafile = true
