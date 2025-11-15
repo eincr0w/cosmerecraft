@@ -21,8 +21,8 @@ hash = "e96c8419bbcfb7950cd2f14187b632d3f162a7e873a48015f49b43716af119b9"
 metafile = true
 
 [[files]]
-file = "mods/enchantment-descriptions-java.pw.toml"
-hash = "d80c4d7bdd2b446ffbbe0bc832ae40c20e00e5bb3d9de18bdacf871b4edb6f55"
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "a2e5a35e593f3d7579664a93261d65ac3b44684a49b89c7c4f76726a299d4a55"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "79625467f94812a83eb6fbf4e1d3884418937cc5b07fc708d05b7ab11dac16a5"
+hash = "cbda4f1881cfb9f054395a3db225df4202d1f2e7bd0ed27d803b837fcf728621"
 metafile = true
 
 [[files]]
@@ -113,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/potions-description.pw.toml"
 hash = "697c1c2778d7ed7e9029e9477661f1a4c8e1b69e4cf07e13179f51137e5480ff"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "0c3d9f5efeb85d0a31b066b80f7189eed6324eb72f9e17b0c84eeef029b44d79"
 metafile = true
 
 [[files]]
