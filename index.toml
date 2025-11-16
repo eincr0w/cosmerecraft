@@ -86,6 +86,11 @@ hash = "03aeb028187b13a940b7140789a7701febaacfb8fbad9fcbd6344c197df31f7e"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "47e38eeda17a991d3201448e71f68081893c8e7aee15b44088dc86eacfc8ca43"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
 hash = "0535b2aae533bf85d7382866c456ed491db5da4784f249a370f796280014340d"
 metafile = true
